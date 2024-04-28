@@ -8,8 +8,11 @@ Repositório para armazenar todos meus processos de aprendizados no Bootcamp de 
 
 
 ##Resumos das Aulas
-| Aulas | Resumos |
-|-------|---------|
-|Gravando Alterações no Repositório Local | [Resumos](link)
+| Aulas  | Resumos |
+|--------|---------|
+|Aula 01 | [Resumos](link)
+|Aula 02 | [Resumos](link)
+|Aula 03 | [Resumos](link)
+|Aula 04 | [Resumos](link)
 
-teste
+TRABALHANDO NOS PRÓXIMOS PASSOS.
